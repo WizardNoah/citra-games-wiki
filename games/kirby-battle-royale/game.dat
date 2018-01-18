@@ -1,0 +1,9 @@
+title = "Kirby Battle Royale"
+description = "Publisher: Nintendo\nGenre: Action\n\nKirby™ has met his match in battle…himself!\nKirby is entering a tournament against his toughest rival yet…himself! 1-4 players can fight in local* or online** battles. Pick from 10+ abilities and 10 battle types to compete in countless matchups. Hoard treasure in Ore Express, knock out opponents in Slam Hockey, shoot missiles at Robo Bonkers, and more! There's a single-player story mode too!"
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001C2100"
+region = "eur"
+release_date = "2017-11-03"
